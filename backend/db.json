@@ -1,0 +1,34 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Tudo que você pode fazer é ser quem você é, mais intensamente. ",
+      "autoria": "Neil Gaiman, Sandman",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Para viajar basta existir.",
+      "autoria": "Fernando Pessoa",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "A única coisa que devemos temer é o próprio medo.",
+      "autoria": "Franklin D. Roosevelt, Discurso de posse de 1933",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Estar cheio de vida é respirar profundamente, mover-se livremente e sentir com intensidade.",
+      "autoria": "Alexander Lowen",
+      "modelo": "modelo1",
+      "id": 4
+    },
+    {
+      "conteudo": "\"Naquela noite, envolto pela escuridão sinistra, o narrador aflito contemplou os olhos gélidos da coruja pousada na janela, enquanto sussurros macabros ecoavam pelos corredores vazios da mansão abandonada, revelando os segredos sombrios que jamais deveriam ser desenterrados.\"",
+      "autoria": "Edgar Allan Poe, conto fictício",
+      "modelo": "modelo2",
+      "id": 5
+    }
+  ]
+}

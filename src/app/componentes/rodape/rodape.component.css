@@ -10,6 +10,11 @@ footer {
   padding: 1rem 2rem;
 }
 
+img {
+  width: 200px;
+  
+}
+
 .TextoCopyright {
   justify-self: center;
   grid-area: TextoCopyright;
