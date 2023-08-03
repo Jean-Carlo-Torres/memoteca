@@ -29,6 +29,18 @@
       "autoria": "Edgar Allan Poe, conto fictício",
       "modelo": "modelo2",
       "id": 5
+    },
+    {
+      "conteudo": "Sua falta de fé e perturbadora!",
+      "autoria": "Darth Vader",
+      "modelo": "modelo1",
+      "id": 6
+    },
+    {
+      "conteudo": "Que a força esteja com você!",
+      "autoria": "Yoda",
+      "modelo": "modelo2",
+      "id": 7
     }
   ]
 }
