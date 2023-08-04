@@ -4,43 +4,57 @@
       "id": 1,
       "conteudo": "Tudo que você pode fazer é ser quem você é, mais intensamente. ",
       "autoria": "Neil Gaiman, Sandman",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 2,
       "conteudo": "Para viajar basta existir.",
       "autoria": "Fernando Pessoa",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "A única coisa que devemos temer é o próprio medo.",
       "autoria": "Franklin D. Roosevelt, Discurso de posse de 1933",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "conteudo": "Estar cheio de vida é respirar profundamente, mover-se livremente e sentir com intensidade.",
       "autoria": "Alexander Lowen",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 4
     },
     {
       "conteudo": "\"Naquela noite, envolto pela escuridão sinistra, o narrador aflito contemplou os olhos gélidos da coruja pousada na janela, enquanto sussurros macabros ecoavam pelos corredores vazios da mansão abandonada, revelando os segredos sombrios que jamais deveriam ser desenterrados.\"",
       "autoria": "Edgar Allan Poe, conto fictício",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 5
     },
     {
       "conteudo": "Sua falta de fé e perturbadora!",
       "autoria": "Darth Vader",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "Que a força esteja com você!",
       "autoria": "Yoda",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 7
+    },
+    {
+      "conteudo": "A vida é como uma caixa de chocolates, você nunca sabe o que vai encontrar.",
+      "autoria": " Forrest Gump",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 8
     }
   ]
 }
